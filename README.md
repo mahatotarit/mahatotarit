@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am Asad Javaid, with 7 years of experience in website designing and development using WordPress, Wix, Weebly, Squarespace, Webflow, Shopify, I focus on listening & understanding your needs and requirements and developing reliable and outstanding complete website solutions. I don't stop till the time you are fully happy!about <br>fun fact
+I am Tarit Mahato, with 2 years of experience in website designing and development using HTML , CSS , JAVASCRIPT, PHP , MySql <br> I focus on listening & understanding your needs and requirements and developing reliable and outstanding complete website solutions. I don't stop till the time you are fully happy
 
 
 ## 🌐 Socials:
