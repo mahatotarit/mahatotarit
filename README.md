@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm currently working on API Project<br>I'm looking to collaborate on GitHub<br>I'm looking for help with team work<br>I'm currently learning Linux , Database<br>Ask me about <br>fun fact
+I am Asad Javaid, with 7 years of experience in website designing and development using WordPress, Wix, Weebly, Squarespace, Webflow, Shopify, I focus on listening & understanding your needs and requirements and developing reliable and outstanding complete website solutions. I don't stop till the time you are fully happy!about <br>fun fact
 
 
 ## 🌐 Socials:
