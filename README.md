@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am Tarit Mahato, with 3 years of experience in website designing & development using HTML, Css, JavaScript, PHP, MySql <br><br> I focus on listening & understanding your needs and requirements and developing reliable and outstanding complete website solutions. I don't stop till the time you are fully happy
+I am Tarit Mahato, with 3 years of experience in website designing & development using HTML, Css, JavaScript, PHP, Laravel, Solidity MySql <br><br> I focus on listening & understanding your needs and requirements and developing reliable and outstanding complete website solutions. I don't stop till the time you are fully happy
 
 
 ## 🌐 Socials:
