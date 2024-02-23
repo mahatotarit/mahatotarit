@@ -20,6 +20,4 @@ I am Tarit Mahato, with 3 years of experience in website designing & development
 [![](https://gtce.itsvg.in/api?username=Tarit_Official)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahatotarit&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
