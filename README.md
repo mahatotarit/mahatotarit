@@ -30,3 +30,8 @@ I am Tarit Mahato, with 3 years of experience in website designing & development
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=mahatotarit&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+
+<p dir="auto" align="center">
+ <a target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/mahatotarit/I/b5400cfaf2355da3257de6963cf2285d776be48a/snake.svg" alt="snake" style="max-width: 100%;" width="1000"></a>
+</p>
